@@ -2,7 +2,7 @@
 
 This repository contains a modern website for a gaming company. The site showcases games, company information, and provides contact functionality.
 
-## Features ✨
+## Features
 
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Game Showcase**: Display featured and upcoming games
@@ -11,7 +11,7 @@ This repository contains a modern website for a gaming company. The site showcas
 - **Contact Form**: For user inquiries and feedback
 - **Interactive Elements**: Animations and hover effects
 
-## Technologies Used 🛠️
+## Technologies Used
 
 - **Frontend**:
   - HTML5
@@ -23,7 +23,7 @@ This repository contains a modern website for a gaming company. The site showcas
   - [Node.js/PHP/etc.]
   - [Database if any]
 
-## Getting Started 🚀
+## Getting Started
 
 ### Prerequisites
 - Web browser (Chrome, Firefox, Safari)
